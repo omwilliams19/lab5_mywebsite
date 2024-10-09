@@ -3,7 +3,7 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: ![](C:\Users\omwil\Downloads\Rosalind_picture.jpg)
+  image: img/profile.png
 ---
 
 :::{#me}
@@ -13,10 +13,12 @@ I hope to work in the field of regenerative science as a research scientist.
 
 ## Education
 BS in Biomedical Science: Medical Microbiology 2022
+
 MS in Molecular & Cellular Biotechnology 2023
 
 ## Experience
 3 years in Dr. Harvey's Marine Science lab at UNH
+
 2 year in Dr. Sousounis' Lens Regeneration lab at UNH
 
 :::
